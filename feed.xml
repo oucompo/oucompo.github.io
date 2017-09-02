@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:dc="https://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Ou compô</title>
+    <description></description>
+    <link>https://www.oucompo.com</link>
+    <atom:link href="https://www.oucompo.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>A path through the garden and across the sea</title>
+        <description>Morning meditation - an composition of 8♤, 10♤, and Q♢ with verses from Genesis and Psalms.</description>
+        <pubDate>Fri, 01 Sep 2017 00:00:00 -0400</pubDate>
+        <link>https://www.oucompo.com/posts/garden-ship-paths</link>
+        <guid isPermaLink="true">https://www.oucompo.com/posts/garden-ship-paths</guid>
+      </item>
+    
+  </channel>
+</rss>
